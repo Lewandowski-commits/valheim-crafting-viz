@@ -1,0 +1,90 @@
+Id,Label,timeset,modularity_class,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,indegree,outdegree,Degree,weighted indegree,weighted outdegree,Weighted Degree,Authority,Hub,componentnumber,strongcompnum,clustering
+Wood,Wood,,4,2,0.975,0.987179,0,0,38,38,0,212,212,0,0.917371,0,39,0
+Antler pickaxe,Antler pickaxe,,4,0,0,0,0,2,0,2,11,0,11,0.140768,0,0,38,0
+Hard Antler,Hard Antler,,4,1,1,1,0,0,1,1,0,1,1,0,0.021114,0,40,0
+Anvil,Anvil,,4,0,0,0,0,2,0,2,7,0,7,0.145131,0,0,37,0
+Bronze,Bronze,,3,1,1,1,0,0,4,4,0,20,20,0,0.050202,0,42,0
+Banded shield,Banded shield,,0,0,0,0,0,2,0,2,13,0,13,0.168748,0,0,36,0
+Iron,Iron,,0,1,1,1,0,0,8,8,0,101,101,0,0.207657,0,43,0
+Bed,Bed,,4,0,0,0,0,1,0,1,8,0,8,0.137601,0,0,35,0
+Fine Wood,Fine Wood,,1,1,1,1,0,0,8,8,0,160,160,0,0.037532,0,50,0
+Blackmetal Axe,Blackmetal Axe,,2,0,0,0,0,3,0,3,31,0,31,0.005895,0,0,49,0
+Black Metal Bar,Black Metal Bar,,2,1,1,1,0,0,1,1,0,20,20,0,0.000884,0,51,0
+Linen Thread,Linen Thread,,2,1,1,1,0,0,1,1,0,5,5,0,0.000884,0,52,0
+Bronze Axe,Bronze Axe,,3,0,0,0,0,3,0,3,14,0,14,0.156757,0,0,34,0
+Leather Scraps,Leather Scraps,,4,1,1,1,0,0,3,3,0,24,24,0,0.077513,0,53,0
+Copper,Copper,,5,2,0.875,0.928571,0,0,6,6,0,57,57,0,0.081506,0,56,0
+Bronze helmet,Bronze helmet,,5,0,0,0,0,2,0,2,10,0,10,0.016534,0,0,55,0
+Tin,Tin,,5,1,1,1,0,0,4,4,0,26,26,0,0.028726,0,58,0
+Core Wood,Core Wood,,6,1,1,1,0,0,1,1,0,1,1,0,0,1,60,0
+Bronze Pickaxe,Bronze Pickaxe,,6,0,0,0,0,2,0,2,6,0,6,0,0,1,59,0
+Bronze Ingot,Bronze Ingot,,6,1,1,1,0,0,1,1,0,5,5,0,0,1,61,0
+Bronze Sword,Bronze Sword,,5,0,0,0,0,3,0,3,21,0,21,0.154135,0,0,33,0
+Stone,Stone,,7,2,0.923077,0.958333,0,0,11,11,0,91,91,0,0.229626,0,65,0
+Campfire,Campfire,,7,0,0,0,0,2,0,2,7,0,7,0.172043,0,0,32,0
+Cauldron,Cauldron,,5,0,0,0,0,1,0,1,10,0,10,0.004309,0,0,57,0
+Charcoal Kiln,Charcoal Kiln,,7,0,0,0,0,2,0,2,22,0,22,0.036245,0,0,64,0
+Surtling core,Surtling core,,7,1,1,1,0,0,3,3,0,9,9,0,0.012013,0,66,0
+Chopping Block,Chopping Block,,4,0,0,0,0,2,0,2,20,0,20,0.164168,0,0,31,0
+Flint,Flint,,4,1,1,1,0,0,7,7,0,50,50,0,0.177122,0,67,0
+Cooking Station,Cooking Station,,4,0,0,0,0,1,0,1,2,0,2,0.137601,0,0,30,0
+Copper Knife,Copper Knife,,5,0,0,0,0,2,0,2,10,0,10,0.149826,0,0,29,0
+Core wood,Core wood,,3,1,1,1,0,0,1,1,0,5,5,0,0.001155,0,68,0
+Cultivator,Cultivator,,3,0,0,0,0,2,0,2,10,0,10,0.007703,0,0,41,0
+Fermenter,Fermenter,,1,0,0,0,0,4,0,4,46,0,46,0.025101,0,0,20,0
+Resin,Resin,,9,1,1,1,0,0,5,5,0,43,43,0,0.075845,0,69,0
+Forge,Forge,,4,1,1,1,0.000522,4,1,5,24,1,25,0.18851,0.003765,0,21,0
+Fire Arrow,Fire Arrow,,9,0,0,0,0,2,0,2,4,0,4,0.148977,0,0,28,0
+Firepit,Firepit,,7,0,0,0,0,2,0,2,7,0,7,0.172043,0,0,27,0
+Flint Axe,Flint Axe,,4,0,0,0,0,2,0,2,10,0,10,0.164168,0,0,26,0
+Flint Knife,Flint Knife,,4,0,0,0,0,2,0,2,6,0,6,0.164168,0,0,25,0
+Flint Spear,Flint Spear,,4,0,0,0,0,3,0,3,17,0,17,0.175795,0,0,24,0
+Flinthead arrow,Flinthead arrow,,4,0,0,0,0,2,0,2,2,0,2,0.164168,0,0,23,0
+Forage Toolrack,Forage Toolrack,,0,0,0,0,0,2,0,2,25,0,25,0.168748,0,0,22,0
+Coal,Coal,,4,2,0.666667,0.75,0,0,1,1,0,4,4,0,0.028275,0,70,0
+Forge Bellows,Forge Bellows,,9,0,0,0,0,3,0,3,14,0,14,0.149387,0,0,19,0
+Deer Hide,Deer Hide,,9,1,1,1,0,0,4,4,0,30,30,0,0.056171,0,71,0
+Chain,Chain,,9,1,1,1,0,0,1,1,0,4,4,0,0.022407,0,72,0
+Forge Cooler,Forge Cooler,,1,0,0,0,0,2,0,2,35,0,35,0.017855,0,0,48,0
+Wheel,Wheel,,8,1,1,1,0,0,1,1,0,25,25,0,0,2,74,0
+Grinding Wheel,Grinding Wheel,,8,0,0,0,0,2,0,2,26,0,26,0,0,2,73,0
+Sharpening Stone,Sharpening Stone,,8,1,1,1,0,0,1,1,0,1,1,0,0,2,75,0
+Hammer,Hammer,,4,0,0,0,0,2,0,2,5,0,5,0.172043,0,0,18,0
+Hearth,Hearth,,7,0,0,0,0,1,0,1,15,0,15,0.034443,0,0,63,0
+Hoe,Hoe,,4,0,0,0,0,2,0,2,7,0,7,0.172043,0,0,17,0
+Horned bronze helmet,Horned bronze helmet,,5,0,0,0,0,2,0,2,20,0,20,0.016534,0,0,54,0
+Iron Axe,Iron Axe,,0,0,0,0,0,2,0,2,19,0,19,0.168748,0,0,16,0
+Iron Longsword,Iron Longsword,,0,0,0,0,0,2,0,2,37,0,37,0.168748,0,0,15,0
+Iron Pickaxe,Iron Pickaxe,,0,0,0,0,0,2,0,2,18,0,18,0.168748,0,0,14,0
+Ironhead arrow,Ironhead arrow,,4,0,0,0,0,2,0,2,3,0,3,0.168748,0,0,13,0
+Item stand,Item stand,,1,0,0,0,0,2,0,2,5,0,5,0.006361,0,0,47,0
+Bronze Nail,Bronze Nail,,9,1,1,1,0,0,2,2,0,81,81,0,0.004878,0,76,0
+Karve,Karve,,9,0,0,0,0,4,0,4,140,0,140,0.026163,0,0,46,0
+Hide,Hide,,10,1,1,1,0,0,6,6,0,52,52,0,0.049693,0,81,0
+Leather armor,Leather armor,,10,0,0,0,0,1,0,1,24,0,24,0.007454,0,0,80,0
+Leather cap,Leather cap,,10,0,0,0,0,1,0,1,12,0,12,0.007454,0,0,79,0
+Iron Nails,Iron Nails,,1,1,1,1,0,0,1,1,0,100,100,0,0.002207,0,82,0
+Longship,Longship,,1,0,0,0,0,4,0,4,190,0,190,0.014717,0,0,45,0
+Ancient Bark,Ancient Bark,,1,1,1,1,0,0,1,1,0,40,40,0,0.002207,0,83,0
+Greydwarf eye,Greydwarf eye,,1,1,1,1,0,0,1,1,0,10,10,0,0.00114,0,84,0
+Portal,Portal,,1,0,0,0,0,3,0,3,32,0,32,0.007603,0,0,44,0
+Raft,Raft,,4,0,0,0,0,3,0,3,36,0,36,0.156431,0,0,12,0
+Rag,Rag,,10,0,0,0,0,1,0,1,3,0,3,0.007454,0,0,78,0
+Rags,Rags,,10,0,0,0,0,1,0,1,3,0,3,0.007454,0,0,77,0
+Smelter,Smelter,,7,0,0,0,0,2,0,2,25,0,25,0.036245,0,0,62,0
+Smith’s Anvil,Smith’s Anvil,,0,0,0,0,0,2,0,2,25,0,25,0.168748,0,0,11,0
+Stone Axe,Stone Axe,,4,0,0,0,0,2,0,2,9,0,9,0.172043,0,0,10,0
+Stone Cutter,Stone Cutter,,4,0,0,0,0,3,0,3,16,0,16,0.203191,0,0,9,0
+Stone Pickaxe,Stone Pickaxe,,7,0,0,0,0,2,0,2,13,0,13,0.172043,0,0,8,0
+Tanning Rack,Tanning Rack,,4,0,0,0,0,4,0,4,50,0,50,0.18422,0,0,7,0
+Throwing Spear,Throwing Spear,,4,0,0,0,0,2,0,2,9,0,9,0.164168,0,0,6,0
+Troll Hide,Troll Hide,,11,1,1,1,0,0,2,2,0,40,40,0,0,3,87,0
+Troll hide armor,Troll hide armor,,11,0,0,0,0,1,0,1,20,0,20,0,0,3,86,0
+Troll leather armor,Troll leather armor,,11,0,0,0,0,1,0,1,20,0,20,0,0,3,85,0
+Ward,Ward,,4,0,0,0,0,3,0,3,20,0,20,0.146527,0,0,5,0
+Greydwarf Eye,Greydwarf Eye,,4,1,1,1,0,0,1,1,0,5,5,0,0.021978,0,88,0
+Wood arrow,Wood arrow,,4,0,0,0,0,1,0,1,2,0,2,0.137601,0,0,4,0
+Wood shield,Wood shield,,4,0,0,0,0,1,0,1,5,0,5,0.137601,0,0,3,0
+Wood shortbow,Wood shortbow,,4,0,0,0,0,2,0,2,10,0,10,0.145054,0,0,2,0
+Wood Torch,Wood Torch,,9,0,0,0,0,2,0,2,2,0,2,0.148977,0,0,1,0
+Workbench,Workbench,,4,0,0,0,0,1,0,1,10,0,10,0.137601,0,0,0,0

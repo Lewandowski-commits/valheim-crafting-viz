@@ -1,0 +1,127 @@
+Source,Target,Type,Id,Label,timeset,Weight
+Wood,Antler pickaxe,Directed,262,,,10
+Hard Antler,Antler pickaxe,Directed,263,,,1
+Wood,Anvil,Directed,264,,,5
+Bronze,Anvil,Directed,265,,,2
+Wood,Banded shield,Directed,266,,,5
+Iron,Banded shield,Directed,267,,,8
+Wood,Bed,Directed,268,,,8
+Fine Wood,Blackmetal Axe,Directed,269,,,6
+Black Metal Bar,Blackmetal Axe,Directed,270,,,20
+Linen Thread,Blackmetal Axe,Directed,271,,,5
+Wood,Bronze Axe,Directed,272,,,4
+Bronze,Bronze Axe,Directed,273,,,8
+Leather Scraps,Bronze Axe,Directed,274,,,2
+Copper,Bronze helmet,Directed,275,,,6
+Tin,Bronze helmet,Directed,276,,,4
+Core Wood,Bronze Pickaxe,Directed,277,,,1
+Bronze Ingot,Bronze Pickaxe,Directed,278,,,5
+Wood,Bronze Sword,Directed,279,,,2
+Copper,Bronze Sword,Directed,280,,,15
+Tin,Bronze Sword,Directed,281,,,4
+Stone,Campfire,Directed,282,,,5
+Wood,Campfire,Directed,283,,,2
+Tin,Cauldron,Directed,284,,,10
+Stone,Charcoal Kiln,Directed,285,,,20
+Surtling core,Charcoal Kiln,Directed,286,,,2
+Wood,Chopping Block,Directed,287,,,10
+Flint,Chopping Block,Directed,288,,,10
+Wood,Cooking Station,Directed,289,,,2
+Copper,Copper Knife,Directed,290,,,8
+Wood,Copper Knife,Directed,291,,,2
+Core wood,Cultivator,Directed,292,,,5
+Bronze,Cultivator,Directed,293,,,5
+Fine Wood,Fermenter,Directed,294,,,30
+Bronze,Fermenter,Directed,295,,,5
+Resin,Fermenter,Directed,296,,,10
+Forge,Fermenter,Directed,297,,,1
+Wood,Fire Arrow,Directed,298,,,2
+Resin,Fire Arrow,Directed,299,,,2
+Wood,Firepit,Directed,300,,,2
+Stone,Firepit,Directed,301,,,5
+Wood,Flint Axe,Directed,302,,,4
+Flint,Flint Axe,Directed,303,,,6
+Wood,Flint Knife,Directed,304,,,2
+Flint,Flint Knife,Directed,305,,,4
+Wood,Flint Spear,Directed,306,,,5
+Flint,Flint Spear,Directed,307,,,10
+Leather Scraps,Flint Spear,Directed,308,,,2
+Wood,Flinthead arrow,Directed,309,,,1
+Flint,Flinthead arrow,Directed,310,,,1
+Iron,Forage Toolrack,Directed,311,,,15
+Wood,Forage Toolrack,Directed,312,,,10
+Stone,Forge,Directed,313,,,4
+Coal,Forge,Directed,314,,,4
+Wood,Forge,Directed,315,,,10
+Copper,Forge,Directed,316,,,6
+Wood,Forge Bellows,Directed,317,,,5
+Deer Hide,Forge Bellows,Directed,318,,,5
+Chain,Forge Bellows,Directed,319,,,4
+Fine Wood,Forge Cooler,Directed,320,,,25
+Copper,Forge Cooler,Directed,321,,,10
+Wheel,Grinding Wheel,Directed,322,,,25
+Sharpening Stone,Grinding Wheel,Directed,323,,,1
+Wood,Hammer,Directed,324,,,3
+Stone,Hammer,Directed,325,,,2
+Stone,Hearth,Directed,326,,,15
+Wood,Hoe,Directed,327,,,5
+Stone,Hoe,Directed,328,,,2
+Copper,Horned bronze helmet,Directed,329,,,12
+Tin,Horned bronze helmet,Directed,330,,,8
+Wood,Iron Axe,Directed,333,,,4
+Iron,Iron Axe,Directed,334,,,15
+Wood,Iron Longsword,Directed,335,,,12
+Iron,Iron Longsword,Directed,336,,,25
+Wood,Iron Pickaxe,Directed,337,,,3
+Iron,Iron Pickaxe,Directed,338,,,15
+Wood,Ironhead arrow,Directed,339,,,2
+Iron,Ironhead arrow,Directed,340,,,1
+Fine Wood,Item stand,Directed,341,,,4
+Bronze Nail,Item stand,Directed,342,,,1
+Fine Wood,Karve,Directed,343,,,30
+Deer Hide,Karve,Directed,344,,,10
+Resin,Karve,Directed,345,,,20
+Bronze Nail,Karve,Directed,346,,,80
+Hide,Leather armor,Directed,347,,,24
+Hide,Leather cap,Directed,349,,,12
+Iron Nails,Longship,Directed,351,,,100
+Deer Hide,Longship,Directed,352,,,10
+Fine Wood,Longship,Directed,353,,,40
+Ancient Bark,Longship,Directed,354,,,40
+Greydwarf eye,Portal,Directed,355,,,10
+Fine Wood,Portal,Directed,356,,,20
+Surtling core,Portal,Directed,357,,,2
+Wood,Raft,Directed,358,,,20
+Hide,Raft,Directed,359,,,6
+Resin,Raft,Directed,360,,,10
+Hide,Rag,Directed,361,,,3
+Hide,Rags,Directed,362,,,3
+Stone,Smelter,Directed,363,,,20
+Surtling core,Smelter,Directed,364,,,5
+Iron,Smith’s Anvil,Directed,365,,,20
+Wood,Smith’s Anvil,Directed,366,,,5
+Wood,Stone Axe,Directed,367,,,5
+Stone,Stone Axe,Directed,368,,,4
+Wood,Stone Cutter,Directed,369,,,10
+Iron,Stone Cutter,Directed,370,,,2
+Stone,Stone Cutter,Directed,371,,,4
+Wood,Stone Pickaxe,Directed,372,,,3
+Stone,Stone Pickaxe,Directed,373,,,10
+Wood,Tanning Rack,Directed,374,,,10
+Flint,Tanning Rack,Directed,375,,,15
+Leather Scraps,Tanning Rack,Directed,376,,,20
+Deer Hide,Tanning Rack,Directed,377,,,5
+Wood,Throwing Spear,Directed,378,,,5
+Flint,Throwing Spear,Directed,379,,,4
+Troll Hide,Troll hide armor,Directed,380,,,20
+Troll Hide,Troll leather armor,Directed,381,,,20
+Fine Wood,Ward,Directed,382,,,5
+Greydwarf Eye,Ward,Directed,383,,,5
+Wood,Ward,Directed,384,,,10
+Wood,Wood arrow,Directed,385,,,2
+Wood,Wood shield,Directed,386,,,5
+Wood,Wood shortbow,Directed,387,,,6
+Hide,Wood shortbow,Directed,388,,,4
+Wood,Wood Torch,Directed,389,,,1
+Resin,Wood Torch,Directed,390,,,1
+Wood,Workbench,Directed,391,,,10
