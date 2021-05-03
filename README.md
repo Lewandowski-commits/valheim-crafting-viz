@@ -5,6 +5,6 @@ Directed network graph of Valheim's crafting recipes created in [Gephi](https://
 All data used to create this graph was taken from [game8.co](https://game8.co/games/Valheim/archives/321005) using Google Spreadsheets.
 
 ## To-do
-[x] Create a static PNG version of the graph
-[ ] Create an interactive version of the graph using Python's Plotly/Dash package
-[ ] Upgrade the data source to [ign.com](https://www.ign.com/wikis/valheim/Items_List#) as it's more comprehensive
+- [x] Create a static PNG version of the graph
+- [ ] Create an interactive version of the graph using Python's Plotly/Dash package
+- [ ] Upgrade the data source to [ign.com](https://www.ign.com/wikis/valheim/Items_List#) as it's more comprehensive
