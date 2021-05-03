@@ -6,5 +6,8 @@ All data used to create this graph was taken from [game8.co](https://game8.co/ga
 
 ## To-do
 - [x] Create a static PNG version of the graph
+- [ ] Sort out the arrows not appearing in the static graph version
 - [ ] Create an interactive version of the graph using Python's Plotly/Dash package
 - [ ] Upgrade the data source to [ign.com](https://www.ign.com/wikis/valheim/Items_List#) as it's more comprehensive
+
+![Alt text](/crafting_hubs.png?raw=true "Optional Title")
